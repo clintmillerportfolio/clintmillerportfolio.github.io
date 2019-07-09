@@ -7,11 +7,15 @@ permalink: /about/
 <img class="col one right" src="/img/prof_pic.jpg">
 
 <br/>
-Write your biography here. Tell the world about yourself. Link to your favorite <a href="http://reddit.com" target="blank">subreddit</a>. You can put a picture in, too. The code is already in, just name your picture "prof_pic.jpg" and put it in the img folder. 
-
-Link to your social media connections, too. This theme is set up to use <a href="http://fortawesome.github.io/Font-Awesome/" target="blank">Font Awesome icons</a>, like the ones below. Add your facebook, twitter, linkedin, or just disable all of them. 
-
-
+Clint Miller is a Design Lead at Wunderman Thompson where he spearheads conversation design. Previously he worked as a UX Manager for Assurant, a Fortune 500 insurance company.
+ 
+His focus is on strategy and prototyping for emerging tech. Combining these skills gives brands a glimpse into their future. His client work has included AT&T, ConEdison and CNN. in 2016, HIs work on the MLS Apple Watch app was highlighted on stage at an Apple Keynote.
+ 
+During his 14 years in design, he’s stayed on the cusp of change, moving from the Web to Mobile to Voice.
+ 
+He believes Voice is the way of the future, given its "heads-up" nature, allowing us to meet our digital needs and get back to the real world.
+ 
+In his free time, he enjoys disc golf and going on adventures with his 2 year old son. 
 <br/>
 <hr/>
 <br/>
