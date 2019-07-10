@@ -1,33 +1,42 @@
 ---
 layout: post
 title: a post with code
-date: 2015-07-15 15:09:00
-description: an example of a blog post with some code
+date: 2019-06-15 15:09:00
+description: Speaking Up for Conversation Design
 ---
-This theme implements a built-in Jekyll feature, the use of Pygments, for sytanx highlighting. It supports more than 100 languages. This example is in C++. All you have to do is wrap your code in a liquid tag: 
-{% raw  %}
-{% highlight c++ %}  <br/> code code code <br/> {% endhighlight %}{% endraw %}
+Voice-first experiences are now ubiquitous. Smart speaker sales are up. [Usage is up.](https://techcrunch.com/2019/02/12/report-voice-assistants-in-use-to-triple-to-8-billion-by-2023/) Your [grandma](https://www.kiplinger.com/article/retirement/T013-C000-S004-voice-assistants-can-help-older-adults.html) is on board. Yet, a large percentage of users still [don’t find](https://www.thinkwithgoogle.com/data/talking-to-voice-assistant/) the experience natural. So, how can we make voice experiences better?
 
-Produces something like this: 
+While understanding [conversation design best practices](https://designguidelines.withgoogle.com/conversation/conversation-design/what-is-conversation-design.html#) is necessary, as stated above, it is not enough to get to natural. To take your voice-user interface (VUI) to the next level, you must add polish, in the form of pacing, sound effects and diverse phrasing. Let’s look at each of these.
 
-{% highlight c++ %}
+#SSML
+On the web, we’ve moved past the days of plain text html pages with one font and those infamous, underlined blue links. You wouldn’t create a web page without CSS, and you shouldn’t be creating voices experiences without SSML, or Speech Synthesis Markup Language. SSML lets you add pauses and pacing to your conversations.
 
-int main(int argc, char const *argv[])
-{
-	string myString;
+For instance, when speaking with others…a dramatic pause conveys emotion. But, Alexa-just-keeps-speak-ing-to-me-in-the-same-tone-and-pace-until-I-fall-a-sleep. To make your experiences sound more realistic, use the <break/> tag to insert a pause in your responses. You can change the duration of the break using attributes. For example, <break strength =”x-strong”/> creates an extra long break between words.
 
-	cout << "input a string: ";
-	getline(cin, myString);
-	int length = myString.length();
-	
-	char charArray = new char * [length];
+To convey excitement, it’s helpful to use the  <prosody> tag to change the rate and pitch of the default speaking voice.
 
-	charArray = myString;
-	for(int i = 0; i < length; ++i){
-		cout << charArray[i] << " ";
-	}
-	
-	return 0;
-}
 
-{% endhighlight %}
+
+But, that’s not all SSML tags can do. We can also use them to change emphasis, spell out acronyms, or even pronounce words in a different language. SSML adds nuance to your responses, making them sound more natural and defining a unique persona for your application. 
+
+#Sound Design
+Have you ever listened to an old radio show? Before TV, radio relied on sound effects and music to tell a compelling story. The 1938 broadcast of [“The War of The Worlds”](https://en.wikipedia.org/wiki/The_War_of_the_Worlds_(radio_drama)#Public_reaction) is infamous for the public hysteria it created. We can use what we’ve learned from these radio shows to take our voice experiences to the next level.
+
+Both Google and Amazon extend SSML to allow voice designers to play sounds from a native library. For example, Google provides tags to mix dialogue, sound effects, and music, and you can even change the volume, fade, and duration to produce stellar results. 
+
+For an example, [here’s a horror game](https://youtu.be/00bmZBYbj0I) I’m working on as a side project. You’ll notice I use ominous music and sound effects to build tension.
+
+To group my different sound bites, I simply apply the <par> tag. I then use the “begin” and “end” attributes to offset them from one another. Below you’ll find an abbreviated code sample to illustrate how it's done.
+
+
+While all voice experiences don’t need the immersion of a game, they can all benefit from earcons, which are short sound effects that convey information. Earcons are also useful when a voice response isn’t needed. For example, smart home applications use them as feedback when you turn a light off. The combined feedback of the earcon and the room going dark is much more elegant than the response, “Ok, I’m turning off the light.” This is because the earcon finishes around the same time that the light goes off. As a best practice, look for clever ways to use Earcons in your voice apps as well.
+
+#Diverse Phrasing
+Out of the box, both Alexa and Google Assistant provide simple ways to vary responses. For each response, you enter a few different phrases and it automatically selects one. While writing numerous responses is better than just one, your app will still end up feeling stale to repeat users. With custom logic, you can create a much wider variety of answers for the voice assistant to use.
+
+Depending on your business needs, there are many different ways to build your logic. I like to create many sets of responses and combine them together. For example, one will be “transactional,” which are phrases that the user needs to hear. The second is “flavor,” which adds extraneous commentary making the response more conversational. I add additional logic to leave these phrases out once in a while. In my game, I randomize the zombie sounds effects to add even more variety. Knowing these things, here are our possibilities:
+
+
+Depending on your functionality, you’ll craft responses in different ways. Let’s say you are creating a weather app. You could have separate “flavor” response sets that correspond with different ranges of temperature. With a little extra logic, you can exponentially increase the number of responses. Every time users interact with your app, it will feel fresh.
+
+Overall - the voice industry is on the cusp of a boom. We should be focusing on sound and conversation design to make experiences more natural and engaging. Brands that offer polished voice experiences will stand out in the endless sea of voice apps. Will you be one of them?
