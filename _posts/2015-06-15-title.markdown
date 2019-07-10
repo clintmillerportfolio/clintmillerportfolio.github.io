@@ -12,9 +12,9 @@ While understanding [conversation design best practices](https://designguideline
 On the web, we’ve moved past the days of plain text html pages with one font and those infamous, underlined blue links. You wouldn’t create a web page without CSS, and you shouldn’t be creating voices experiences without SSML, or Speech Synthesis Markup Language. SSML lets you add pauses and pacing to your conversations.
 
 For instance, when speaking with others…a dramatic pause conveys emotion. But, Alexa-just-keeps-speak-ing-to-me-in-the-same-tone-and-pace-until-I-fall-a-sleep. To make your experiences sound more realistic, use the <break/> tag to insert a pause in your responses. You can change the duration of the break using attributes. For example, <break strength =”x-strong”/> creates an extra long break between words.
-<div class="img_row">
-<img class="col one" src="/img/image1.png">
-</div>
+
+<img src="/img/image1.png">
+
 To convey excitement, it’s helpful to use the  <prosody> tag to change the rate and pitch of the default speaking voice.
 <div class="img_row">
 <img class="col one" src="/img/image2.png">
