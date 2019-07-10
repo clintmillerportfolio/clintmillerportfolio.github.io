@@ -1,8 +1,8 @@
 ---
 layout: post
-title: a post with code
+title: Speaking Up for Conversation Design
 date: 2019-06-15 15:09:00
-description: Speaking Up for Conversation Design
+description: How can we make voice experiences better?
 ---
 Voice-first experiences are now ubiquitous. Smart speaker sales are up. [Usage is up.](https://techcrunch.com/2019/02/12/report-voice-assistants-in-use-to-triple-to-8-billion-by-2023/) Your [grandma](https://www.kiplinger.com/article/retirement/T013-C000-S004-voice-assistants-can-help-older-adults.html) is on board. Yet, a large percentage of users still [don’t find](https://www.thinkwithgoogle.com/data/talking-to-voice-assistant/) the experience natural. So, how can we make voice experiences better?
 
