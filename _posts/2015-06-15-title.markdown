@@ -13,7 +13,7 @@ On the web, we’ve moved past the days of plain text html pages with one font a
 
 For instance, when speaking with others…a dramatic pause conveys emotion. But, Alexa-just-keeps-speak-ing-to-me-in-the-same-tone-and-pace-until-I-fall-a-sleep. To make your experiences sound more realistic, use the <break/> tag to insert a pause in your responses. You can change the duration of the break using attributes. For example, <break strength =”x-strong”/> creates an extra long break between words.
 
-<img src="/img/image1.png">
+![SSML Code](/img/image1.png)
 
 To convey excitement, it’s helpful to use the  <prosody> tag to change the rate and pitch of the default speaking voice.
 <div class="img_row">
