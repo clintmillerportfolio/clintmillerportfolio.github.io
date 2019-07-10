@@ -5,22 +5,19 @@ description: Alexa
 img: /img/nba_cover.png
 ---
 
-# NBA 
-
 # Alexa Skill
-
-## Customer Need
-*"I want to keep up with my favorite teams, but I’m busy."*
-
-**Business Need**
-Stake a claim in the world of voice interfaces.
-
-**Solution**
-An Alexa Skill that checks scores, gives the schedule and plays live game audio.
-
 <div class="img_row">
 <img class="col three" src="/img/nba_cover.png"/>
 </div>
+
+# Customer Need
+*"I want to keep up with my favorite teams, but I’m busy."*
+
+# Business Need
+*Stake a claim in the world of voice interfaces.*
+
+# Solution
+*An Alexa Skill that checks scores, gives the schedule and plays live game audio.*
 
 Turner Broadcasting, the official digital partner of the NBA, approached my team looking to create an Alexa Skill. Their primary goal was to stake a claim in the world of voice interfaces.
 
