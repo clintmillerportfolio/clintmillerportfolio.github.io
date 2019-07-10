@@ -27,7 +27,5 @@ In his free time, he enjoys disc golf and going on adventures with his 2 year ol
 	<a href="https://twitter.com" target="_blank"><i class="fa fa-twitter-square"></i></a>
 </span>
 
-<div class="col three caption">
-	You can even add a little note about which of these is the best way to reach you.
-</div>
+
 
