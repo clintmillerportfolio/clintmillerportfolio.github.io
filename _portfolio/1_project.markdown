@@ -5,10 +5,7 @@ description: Alexa Skill
 img: /img/nba_thumb.png
 ---
 
-# Alexa Skill
-<div class="img_row">
-<img class="col three" src="/img/nba_cover.png"/>
-</div>
+<img class="img_scale" src="/img/nba_cover.png"/>
 
 # Customer Need
 *"I want to keep up with my favorite teams, but I’m busy."*
