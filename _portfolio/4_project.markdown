@@ -1,14 +1,11 @@
 ---
 layout: post
 title: Undead Destruction
-description: Google Assitant
+description: Google Assitant Action
 img: /img/undead_thumb.png
 ---
 
-# Google Assitant Action
-
 <img class="image_scale" src="/img/undead_cover.png"/>
-
 
 # Customer Need
 lorem ipsum
