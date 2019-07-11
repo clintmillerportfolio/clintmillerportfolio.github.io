@@ -1,7 +1,7 @@
 ---
 layout: post
-title: AT&T Thanks
-description: Alexa
+title: Spy Camera
+description: AR Mobile App
 img: /img/spy_thumb.png
 ---
 
