@@ -1,14 +1,14 @@
 ---
 layout: post
-title: AT&T Thanks
+title: Undead Destruction
 description: Google Assitant
 img: /img/undead_thumb.png
 ---
 
 # Google Assitant Action
-<div class="img_row">
-<img class="col three" src="/img/undead_cover.png"/>
-</div>
+
+<img class="image_scale" src="/img/undead_cover.png"/>
+
 
 # Customer Need
 lorem ipsum
