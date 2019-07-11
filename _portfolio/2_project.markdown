@@ -18,3 +18,7 @@ Combine disparate loyalty websites into a cohesive mobile app.
 
 # Solution
 An iOS & Android mobile app built on a content management system that contains web, coupon and promo code based benefits.
+
+<img class="img_scale" src="/img/thanks1.png"/>
+
+<img class="img_scale" src="/img/thanks2.png"/>
