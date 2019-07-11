@@ -2,13 +2,13 @@
 layout: post
 title: AT&T Thanks
 description: Alexa
-img: /img/thanks_thumb.png
+img: /img/spy_thumb.png
 ---
 
-# Alexa Skill
-<div class="img_row">
-<img class="col three" src="/img/thanks_cover.png"/>
-</div>
+# AR Mobile App
+
+<img class="img_scale" src="/img/spy_cover.png"/>
+
 
 # Customer Need
 “I want a fun way for my friends and I to experience augmented reality.”
