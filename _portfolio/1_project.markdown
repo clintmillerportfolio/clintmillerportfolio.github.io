@@ -2,7 +2,7 @@
 layout: post
 title: NBA
 description: Alexa
-img: /img/nba_cover.png
+img: /img/nba_thumb.png
 ---
 
 # Alexa Skill
