@@ -31,7 +31,7 @@ permalink: /portfolio/
         {% if project.img %}
         <img class="img_scale" src="{{ project.img }}"/>
         {% else %}
-        <div class="thumbnail blankbox"></div>
+        
         {% endif %}    
         <span>
             <h1>{{ project.title }}</h1>
