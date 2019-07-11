@@ -1,11 +1,11 @@
 ---
 layout: post
 title: AT&T Thanks
-description: Alexa
+description: Google Assitant
 img: /img/undead_thumb.png
 ---
 
-# Alexa Skill
+# Google Assitant Action
 <div class="img_row">
 <img class="col three" src="/img/undead_cover.png"/>
 </div>
