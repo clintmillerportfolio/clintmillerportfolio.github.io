@@ -5,10 +5,7 @@ description: AR Mobile App
 img: /img/spy_thumb.png
 ---
 
-# AR Mobile App
-
 <img class="img_scale" src="/img/spy_cover.png"/>
-
 
 # Customer Need
 “I want a fun way for my friends and I to experience augmented reality.”
