@@ -7,7 +7,7 @@ img: /img/undead_thumb.png
 
 # Alexa Skill
 <div class="img_row">
-<img class="col three" src="/img/thanks_cover.png"/>
+<img class="col three" src="/img/undead_cover.png"/>
 </div>
 
 # Customer Need
