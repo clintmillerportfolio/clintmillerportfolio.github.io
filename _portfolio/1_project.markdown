@@ -1,7 +1,7 @@
 ---
 layout: post
 title: NBA
-description: Alexa
+description: Alexa Skill
 img: /img/nba_thumb.png
 ---
 
