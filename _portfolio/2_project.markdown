@@ -5,10 +5,8 @@ description: Mobile App
 img: /img/thanks_thumb.png
 ---
 
-# Alexa Skill
-<div class="img_row">
-<img class="col three" src="/img/thanks_cover.png"/>
-</div>
+<img class="img_scale" src="/img/thanks_cover.png"/>
+
 
 # Customer Need
 “Other carriers have great incentive programs. I want more from AT&T.”
