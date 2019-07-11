@@ -1,7 +1,7 @@
 ---
 layout: post
 title: AT&T Thanks
-description: Alexa
+description: Mobile App
 img: /img/thanks_thumb.png
 ---
 
