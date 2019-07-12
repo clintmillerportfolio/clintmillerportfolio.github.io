@@ -20,3 +20,5 @@ img: /img/thanks_thumb.png
 <img class="img_scale2" src="/img/thanks1.png"/>
 
 <img class="img_scale2" src="/img/thanks2.png"/>
+
+<a href="https://apps.apple.com/us/app/at-t-thanks/id1251584149">AT&T Thanks on the Apple App Store</a>
