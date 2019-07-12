@@ -18,16 +18,16 @@ NBA - Alexa Skill
 AT&T Thanks - Mobile App
 </span>
 
-<a href="/portfolio/3_project/">
-<img class="img_scale" src="/img/spy_thumb.png"/>
-</a>
-<span class="caption">
-Spy Camera - AR Mobile App 
-</span>
-
 <a href="/portfolio/4_project/">
 <img class="img_scale" src="/img/undead_thumb.png"/>
 </a>
 <span class="caption">
 Undead Destruction - Google Action
+</span>
+
+<a href="/portfolio/3_project/">
+<img class="img_scale" src="/img/spy_thumb.png"/>
+</a>
+<span class="caption">
+Spy Camera - AR Mobile App 
 </span>
