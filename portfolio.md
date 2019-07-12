@@ -27,3 +27,16 @@ permalink: /portfolio/
 {% endif %}
 
 {% endfor %}
+
+<a href="/1_project/">
+<img class="img_scale" src="nba_thumb.png"/>
+</a>
+<a href="/2_project/">
+<img class="img_scale" src="thanks_thumb.png"/>
+</a>
+<a href="/3_project/">
+<img class="img_scale" src="spy_thumb.png"/>
+</a>
+<a href="/4_project/">
+<img class="img_scale" src="undead_thumb.png"/>
+</a>
