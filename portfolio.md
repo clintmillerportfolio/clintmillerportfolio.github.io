@@ -15,19 +15,19 @@ NBA - Alexa Skill
 <img class="img_scale" src="/img/thanks_thumb.png"/>
 </a>
 <div class="caption">
-NBA - Alexa Skill 
+AT&T Thanks - Mobile App
 </div>
 
 <a href="/_portfolio/3_project/">
 <img class="img_scale" src="/img/spy_thumb.png"/>
 </a>
 <div class="caption">
-NBA - Alexa Skill 
+Spy Camera - AR Mobile App 
 </div>
 
 <a href="/_portfolio/4_project/">
 <img class="img_scale" src="/img/undead_thumb.png"/>
 </a>
 <div class="caption">
-NBA - Alexa Skill 
+Undead Destruction - Google Action
 </div>
