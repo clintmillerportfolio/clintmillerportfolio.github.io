@@ -7,27 +7,27 @@ permalink: /portfolio/
 <a href="/portfolio/1_project/">
 <img class="img_scale" src="/img/nba_thumb.png"/>
 </a>
-<div class="caption">
+<span class="caption">
 NBA - Alexa Skill 
-</div>
+</span>
 
 <a href="/portfolio/2_project/">
 <img class="img_scale" src="/img/thanks_thumb.png"/>
 </a>
-<div class="caption">
+<span class="caption">
 AT&T Thanks - Mobile App
-</div>
+</span>
 
 <a href="/portfolio/3_project/">
 <img class="img_scale" src="/img/spy_thumb.png"/>
 </a>
-<div class="caption">
+<span class="caption">
 Spy Camera - AR Mobile App 
-</div>
+</span>
 
 <a href="/portfolio/4_project/">
 <img class="img_scale" src="/img/undead_thumb.png"/>
 </a>
-<div class="caption">
+<span class="caption">
 Undead Destruction - Google Action
-</div>
+</span>
