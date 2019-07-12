@@ -36,4 +36,6 @@ We brought in a 2nd designer. I staked her with doing flows for our new Intents.
 
 I couldn’t be happier about how the skill turned out. Our team solved some complicated problems to get to where we are today. The skill handles log in validation, multiple days of scores and schedule information and playing live audio. It does a great job of leading the user to the information they request without being long-winded and it’s one of the highest rated major sports league skills on Amazon.
 
+<a href="https://www.amazon.com/NBA-Digital/dp/B073NLWBJF">NBA on the Amazon Skill store</a>
+
 
