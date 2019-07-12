@@ -8,13 +8,13 @@ img: /img/undead_thumb.png
 <img class="img_scale" src="/img/undead_cover.png"/>
 
 # Customer Need
-"I want an immersive party game to play with my friends."
+*"I want an immersive party game to play with my friends."*
 
 # Business Need
-Create a Voice experience that combines tabletop dice games with survival horror video games.
+*Create a Voice experience that combines tabletop dice games with survival horror video games.*
 
 # Solution
-A strategic party game with frightening sound design to fully immerse players in a post-apocalyptic dystopia. Built for the Google Home.
+*A strategic party game with frightening sound design to fully immerse players in a post-apocalyptic dystopia. Built for the Google Home.*
 
 Interesting Decisions - Surprisingly deep gameplay that’s easy to learn
 
