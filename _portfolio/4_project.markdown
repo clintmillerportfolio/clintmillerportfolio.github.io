@@ -5,7 +5,7 @@ description: Google Assitant Action
 img: /img/undead_thumb.png
 ---
 
-<img class="image_scale" src="/img/undead_cover.png"/>
+<img class="img_scale" src="/img/undead_cover.png"/>
 
 # Customer Need
 "I want an immersive party game to play with my friends."
