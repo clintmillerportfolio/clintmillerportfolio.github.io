@@ -19,7 +19,7 @@ img: /img/undead_thumb.png
 <div class="video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ErsQL1hyQdY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 </div>
-
+<br>
 Interesting Decisions - Surprisingly deep gameplay that’s easy to learn
 
 Press Your Luck - String together multiple turns as long as you keep killing zombies, but be careful because one slip can lose all your points for the round
