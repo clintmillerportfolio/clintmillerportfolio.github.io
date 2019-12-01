@@ -17,12 +17,15 @@ He believes Voice is the way of the future, given its "heads-up" nature, allowin
  
 In his free time, he enjoys disc golf and going on adventures with his 2 year old son. 
 
-Recent Articles:
+Recent Published Articles:
+<br/>
 UXmatters
+<br/>
 <a href="https://www.uxmatters.com/mt/archives/2019/10/speaking-up-for-conversation-design.php">Speaking Up for Conversation Design</a>
 
-Recent Speaking Engagements
+Recent Speaking Engagements<br/>
 amUX
+<br/>
 <a href="https://www.meetup.com/amuxatl/events/264216556/">Voice Assistants Failed Us: Can Design Save Them?</a>
 
 <br/>
