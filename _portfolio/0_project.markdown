@@ -33,11 +33,17 @@ We outlined how our deliverables would build upon one another to produce the fin
 3. Wunderman Thompson’s expertise & competitive analyses give us **Best Practices**
 4. We define our **Areas of Improvement** by cross-referencing **Business Needs, Customer Needs** and **Best Practices**
 5. **Job Stories** distill key issues and scenarios from the **Areas of Improvement**
-6. **UX Audit** makes usability recommendations based on well the ecosystem fulfills the **Job Stories**
-7. **Wireframes** rethink the issues found in the **UX Audit**
+<img class="img_scale" src="/img/jobstory.png"/>
+6. **Customer Journeys** imagine an ideal real world example of a user fufilling the **Job Stories**
+<img class="img_scale" src="/img/journey.png"/>
+7. **Wireframes** illustrate the screens from the **Customer Journeys**
+<img class="img_scale" src="/img/wire001.png"/>
+<img class="img_scale" src="/img/wire002.png"/>
+<img class="img_scale" src="/img/wire003.png"/>
+<img class="img_scale" src="/img/wire004.png"/>
 8. **Technical Analysis** provides recommendations on how development will address the **Areas of Improvement**
 9. **Design System** applied to the **Wireframes** provides rules and guidelines for how the **Prototype** will be designed
-10. **Prototype** demonstrates scenarios and solutions from **Job Stories, UX Audit** and **Technical Analysis**
+10. **Prototype** demonstrates scenarios and solutions from **Job Stories, Customer Journeys** and **Technical Analysis**
 
 
 
