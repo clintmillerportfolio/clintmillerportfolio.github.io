@@ -47,6 +47,9 @@ We outlined how our deliverables would build upon one another to produce the fin
 9. **Design System** applied to the **Wireframes** provides rules and guidelines for how the **Prototype** will be designed
 ...<a href="img/blueprint_ds.pdf" target="_blank">View the entire Design System presentation.</a>
 10. **Prototype** demonstrates scenarios and solutions from **Job Stories, Customer Journeys** and **Technical Analysis**
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0IOIfL3hMBs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+</div>
 
 
 
