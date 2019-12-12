@@ -34,8 +34,10 @@ We outlined how our deliverables would build upon one another to produce the fin
 4. We define our **Areas of Improvement** by cross-referencing **Business Needs, Customer Needs** and **Best Practices**
 5. **Job Stories** distill key issues and scenarios from the **Areas of Improvement**
 <img class="img_scale" src="/img/jobstory.png"/>
-6. **Customer Journeys** imagine an ideal real world example of a user fufilling the **Job Stories**
+6. **Customer Journeys** imagine a real world example of a user fufilling the **Job Stories**
+
 <img class="img_scale" src="/img/journey.png"/>
+
 7. **Wireframes** illustrate the screens from the **Customer Journeys**
 <img class="img_scale" src="/img/wire001.png"/>
 <img class="img_scale" src="/img/wire002.png"/>
@@ -43,6 +45,7 @@ We outlined how our deliverables would build upon one another to produce the fin
 <img class="img_scale" src="/img/wire004.png"/>
 8. **Technical Analysis** provides recommendations on how development will address the **Areas of Improvement**
 9. **Design System** applied to the **Wireframes** provides rules and guidelines for how the **Prototype** will be designed
+...<a href="" target="_blank">View the entire Design System presentation.</a>
 10. **Prototype** demonstrates scenarios and solutions from **Job Stories, Customer Journeys** and **Technical Analysis**
 
 
