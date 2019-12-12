@@ -2,10 +2,10 @@
 layout: post
 title: AT&T
 description: Mobile App Strategy & UX
-img: /img/nba_thumb.png
+img: /img/atteco_thumb.png
 ---
 
-<img class="img_scale" src="/img/nba_cover.png"/>
+<img class="img_scale" src="/img/atteco_cover.png"/>
 
 # Customer Need
 *"I want to manage my digital lifestyle."*
