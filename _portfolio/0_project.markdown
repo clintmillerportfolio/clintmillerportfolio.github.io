@@ -50,9 +50,7 @@ We outlined how our deliverables would build upon one another to produce the fin
 
 8. **Technical Analysis** provides recommendations on how development will address the **Areas of Improvement**
 
-9. **Design System** applied to the **Wireframes** provides rules and guidelines for how the **Prototype** will be designed
-
-<a href="http://www.mrclintmiller.com/img/blueprint_ds.pdf" target="_blank">View the entire **Design System** presentation.</a>
+9. **Design System**<a href="http://www.mrclintmiller.com/img/blueprint_ds.pdf" target="_blank">(view here)</a> applied to the **Wireframes** provides rules and guidelines for how the **Prototype** will be designed
 
 10. **Prototype** demonstrates scenarios and solutions from **Job Stories, Customer Journeys** and **Technical Analysis**
 <video width="350" controls>
