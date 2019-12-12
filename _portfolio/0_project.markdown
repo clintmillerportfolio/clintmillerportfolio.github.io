@@ -56,7 +56,7 @@ We outlined how our deliverables would build upon one another to produce the fin
 
 10. **Prototype** demonstrates scenarios and solutions from **Job Stories, Customer Journeys** and **Technical Analysis**
 <div class="video-container">
-  <video controls width="250">
+  <video controls width="398" height="802">
     <source src="/img/prototype.mp4"
             type="video/mp4">
 
