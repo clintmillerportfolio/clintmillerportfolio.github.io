@@ -4,6 +4,13 @@ title: portfolio
 permalink: /portfolio/
 ---
 
+<a href="/portfolio/0_project/">
+<img class="img_scale" src="/img/atteco_thumb.png"/>
+</a>
+<span class="caption">
+AT&T - Mobile Strategy 
+</span>
+
 <a href="/portfolio/1_project/">
 <img class="img_scale" src="/img/nba_thumb.png"/>
 </a>
