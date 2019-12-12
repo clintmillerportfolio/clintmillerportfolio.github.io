@@ -40,7 +40,7 @@ We outlined how our deliverables would build upon one another to produce the fin
 <img class="img_scale" src="/img/jobstory.png"/>
 
 6. **Customer Journeys** imagine a real world example of a user fufilling the **Job Stories**
-<img class="img_scale" src="/img/journey.png"/>
+<a href="http://www.mrclintmiller.com/img/journey.png"><img class="img_scale" src="/img/journey.png"/></a>
 
 7. **Wireframes** illustrate the screens from the **Customer Journeys**
 <img class="img_scale" src="/img/wire001.png"/>
