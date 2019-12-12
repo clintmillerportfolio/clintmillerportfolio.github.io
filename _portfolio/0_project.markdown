@@ -63,4 +63,9 @@ We outlined how our deliverables would build upon one another to produce the fin
 </video>
 </div>
 
+<video width="398" controls>
+  <source src="/img/prototype.mp4" type="video/mp4">
+  Your browser does not support HTML5 video.
+</video>
+
 
