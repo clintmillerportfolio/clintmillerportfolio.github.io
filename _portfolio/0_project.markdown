@@ -56,9 +56,12 @@ We outlined how our deliverables would build upon one another to produce the fin
 
 10. **Prototype** demonstrates scenarios and solutions from **Job Stories, Customer Journeys** and **Technical Analysis**
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0IOIfL3hMBs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+  <video controls width="250">
+    <source src="/img/prototype.mp4"
+            type="video/mp4">
+
+    Sorry, your browser doesn't support embedded videos.
+</video>
 </div>
-
-
 
 
