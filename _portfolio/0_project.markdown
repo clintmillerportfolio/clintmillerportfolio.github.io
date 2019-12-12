@@ -43,10 +43,10 @@ We outlined how our deliverables would build upon one another to produce the fin
 <a href="http://www.mrclintmiller.com/img/journey.png"><img class="img_scale" src="/img/journey.png"/></a>
 
 7. **Wireframes** illustrate the screens from the **Customer Journeys**
-<img class="img_scale" src="/img/wire001.png"/>
-<img class="img_scale" src="/img/wire002.png"/>
-<img class="img_scale" src="/img/wire003.png"/>
-<img class="img_scale" src="/img/wire004.png"/>
+<a href="http://www.mrclintmiller.com/img/wire001.png"><img class="img_scale" src="/img/wire001.png"/></a>
+<a href="http://www.mrclintmiller.com/img/wire002.png"><img class="img_scale" src="/img/wire002.png"/></a>
+<a href="http://www.mrclintmiller.com/img/wire003.png"><img class="img_scale" src="/img/wire003.png"/></a>
+<a href="http://www.mrclintmiller.com/img/wire004.png"><img class="img_scale" src="/img/wire004.png"/></a>
 
 8. **Technical Analysis** provides recommendations on how development will address the **Areas of Improvement**
 
