@@ -23,6 +23,7 @@ First, I was tasked with researching the combined ecosystem, finding commonaliti
 Our leadership team put together a skeleton deck for a kickoff workshop. We had a lot of good strategic thinking, but I saw a need for more interactivity with the client. I added stakeholder interviews, Crazy 8s and SWOT analysis. I wanted to build consensus and make our stakeholders feel invested in the process.
 
 After the two day kickoff we gathered our insights, the client’s research and the workshop findings. At the cross section of Business Needs, Customer Needs, and Best Practices, we identified 5 key Areas of Improvement:
+
 Login, Customer Support, Billing, Streaming, Shop & Upgrade.
 
 We outlined how our deliverables would build upon one another to produce the final presentation.
