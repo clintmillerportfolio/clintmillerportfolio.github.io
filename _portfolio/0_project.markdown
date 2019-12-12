@@ -55,15 +55,7 @@ We outlined how our deliverables would build upon one another to produce the fin
 <a href="http://www.mrclintmiller.com/img/blueprint_ds.pdf" target="_blank">View the entire **Design System** presentation.</a>
 ....
 10. **Prototype** demonstrates scenarios and solutions from **Job Stories, Customer Journeys** and **Technical Analysis**
-<div class="video-container">
-  <video controls width="398" height="802">
-    <source src="/img/prototype.mp4" type="video/mp4">
-
-    Sorry, your browser doesn't support embedded videos.
-</video>
-</div>
-
-<video width="398" controls>
+<video width="350" controls>
   <source src="/img/prototype.mp4" type="video/mp4">
   Your browser does not support HTML5 video.
 </video>
