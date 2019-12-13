@@ -53,7 +53,7 @@ We outlined how our deliverables would build upon one another to produce the fin
 9. **Design System**<a href="http://www.mrclintmiller.com/img/blueprint_ds.pdf" target="_blank">(view here)</a> applied to the **Wireframes** provides rules and guidelines for how the **Prototype** will be designed
 
 10. **Prototype** demonstrates scenarios and solutions from **Job Stories, Customer Journeys** and **Technical Analysis**
-<video width="350" controls>
+<video id="vid1" width="350" controls>
   <source src="/img/prototype.mp4" type="video/mp4">
   Your browser does not support HTML5 video.
 </video>
