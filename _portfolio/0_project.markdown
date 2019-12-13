@@ -58,6 +58,7 @@ We outlined how our deliverables would build toward the final presentation:
   Your browser does not support HTML5 video.
 </video>
 
+
 We met with our stakeholders weekly to update them on our progress and receive feedback. As the project went on, they decided to narrow focus on the myAT&T app.
 
 The ecosystem project exemplifies my ideal design process. The client came to us with a massive problem and trusted us as a team to solve it. We did so based on research, not hunches.
