@@ -14,19 +14,19 @@ img: /img/atteco_thumb.png
 *Rexamine AT&T’s app ecosystem and redesign the flagship consumer app: myAT&T.*
 
 # Solution
-*A 238 page final report consisting of research takeaways, job stories, customer journeys, job stories, wires, comps and strategic thinking around AT&T’s entire app ecosystem.*
+*Workshops and a 238 page report of  job stories, customer journeys, wires, comps and more around AT&T’s app ecosystem.*
 
-AT&T came to us looking for strategy, design and tech recommendations around their entire ecosystem of 46 customer facing mobile apps.
+AT&T came to us looking for strategy, design and tech recommendations for their 46 mobile apps.
 
-First, I was tasked with researching the combined ecosystem, finding commonalities and looking for future improvements. With help from one of our developers, I wrote a script to pull in .JSON data from an app analytics site, into a google sheet for quicker analysis. I noticed some apps hadn’t been updated in over a year. I also saw what apps were rated the lowest. This gave us a list of apps that could possibly be eliminated or integrated into other apps. During this, I recommended our Strategy Director review app store reviews for qualitative feedback from real users.
+First, I researched the combined ecosystem, finding commonalities and looking for future improvements. A developer helped me write a script to pull all the app analytics into a spreadsheet for analysis. Some apps had not been updated in over a year. Some apps had very low ratings. We felt these apps could be eliminated or integrated into other apps.  I asked our strategist to gather app reviews. We cross referenced them with the quantitative data. Doing research separately limited confirmation bias at this early stage.
 
-Our leadership team put together a skeleton deck for a kickoff workshop. We had a lot of good strategic thinking, but I saw a need for more interactivity with the client. I added stakeholder interviews, Crazy 8s and SWOT analysis. I wanted to build consensus and make our stakeholders feel invested in the process.
+Our leadership team put together a deck for a kickoff workshop. We had a lot of good strategic thinking, but I saw a need for more interactivity with the client. I added stakeholder interviews, crazy 8s and SWOT analysis. I wanted to build consensus and make our stakeholders feel invested in the process.
 
-After the two day kickoff we gathered our insights, the client’s research and the workshop findings. At the cross section of Business Needs, Customer Needs, and Best Practices, we identified 5 key Areas of Improvement:
+We learned a lot for the two day kickoff workshop. It was now time to synthesize our findings. We now had business needs, customer needs and best practices. We cross referenced them to identify 5 key areas of improvement:
 
 Login, Customer Support, Billing, Streaming, Shop & Upgrade.
 
-We outlined how our deliverables would build upon one another to produce the final presentation.
+We outlined how our deliverables would build toward the final presentation:
 
 1. Stakeholder interviews give us **Business Needs**
 
@@ -60,4 +60,19 @@ We outlined how our deliverables would build upon one another to produce the fin
   Your browser does not support HTML5 video.
 </video>
 
+We met with our stakeholders weekly to update them on our progress and receive feedback. As the project went on, they decided to narrow focus on the myAT&T app.
+
+The ecosystem project exemplifies my ideal design process. The client came to us with a massive problem and trusted us as a team to solve it. We did so based on research, not hunches.
+
+Early on our team felt that many of the apps should be removed from the store all together. While I still think that is true, the client didn’t follow through. Ultimately that would have been too large of a task, with too little of a benefit for them. 
+
+That “failure” led me to an important breakthrough. In an organization of that size:
+
+It’s better to create guidelines than barriers
+
+Siloed teams within AT&T were going to spin up new apps no matter what. Instead of being gatekeepers, it made more sense to give them the tools to succeed. That’s why the design system pitch I created is my favorite deliverable of the project, even if it wasn't as implemented as widely as I hoped.
+
+Our stakeholders had more control over the myAT&T app than the rest of the ecosystem. The flagship saw the most change when the project ended. Every day millions of people use it to shop and pay bills. Our recommendations vastly improved the visual design, navigation and usability.
+
+I learned a lot on this project. I learned how to work better with their teams and ours. I learned more about strategy and design. I learned that sometimes the best process still won't yield the results you hoped for.
 
