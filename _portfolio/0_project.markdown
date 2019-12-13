@@ -18,11 +18,11 @@ img: /img/atteco_thumb.png
 
 AT&T came to us looking for strategy, design and tech recommendations for their 46 mobile apps.
 
-First, I researched the combined ecosystem, finding commonalities and looking for future improvements. A developer helped me write a script to pull all the app analytics into a spreadsheet for analysis. Some apps had not been updated in over a year. Some apps had very low ratings. We felt these apps could be eliminated or integrated into other apps.  I asked our strategist to gather app reviews. We cross referenced them with the quantitative data. Doing research separately limited confirmation bias at this early stage.
+First, I researched the combined ecosystem, finding redundancies and looking for future improvements. A developer helped me write a script to pull all the app analytics into a spreadsheet for analysis. Some apps had not been updated in over a year. Some apps had very low ratings. We felt these apps could be eliminated or integrated into other apps.  I asked our strategist to gather app reviews. We cross referenced them with the quantitative data. Doing research separately limited confirmation bias at this early stage.
 
-Our leadership team put together a deck for a kickoff workshop. We had a lot of good strategic thinking, but I saw a need for more interactivity with the client. I added stakeholder interviews, crazy 8s and SWOT analysis. I wanted to build consensus and make our stakeholders feel invested in the process.
+Our leadership team put together a deck for a kickoff workshop. We had a lot of good strategic thinking, but I saw a need for more interactivity with the client. I added stakeholder interviews, crazy 8s and SWOT analysis. The goal was to build consensus and make our stakeholders feel invested in the process.
 
-We learned a lot for the two day kickoff workshop. It was now time to synthesize our findings. We now had business needs, customer needs and best practices. We cross referenced them to identify 5 key areas of improvement:
+We learned a lot for the two day kickoff workshop. It was now time to synthesize our findings. We cross referenced them to identify 5 key areas of improvement:
 
 Login, Customer Support, Billing, Streaming, Shop & Upgrade.
 
@@ -68,11 +68,11 @@ Early on our team felt that many of the apps should be removed from the store al
 
 That “failure” led me to an important breakthrough. In an organization of that size:
 
-It’s better to create guidelines than barriers
+It’s better to create guidelines than barriers.
 
 Siloed teams within AT&T were going to spin up new apps no matter what. Instead of being gatekeepers, it made more sense to give them the tools to succeed. That’s why the design system pitch I created is my favorite deliverable of the project, even if it wasn't as implemented as widely as I hoped.
 
-Our stakeholders had more control over the myAT&T app than the rest of the ecosystem. The flagship saw the most change when the project ended. Every day millions of people use it to shop and pay bills. Our recommendations vastly improved the visual design, navigation and usability.
+Our stakeholders had more control over the myAT&T app than the rest of the ecosystem. The flagship saw the most change when the project ended. Every day millions of people use it to shop and pay bills. Our recommendations vastly improved the visual design, navigation and usability for them.
 
-I learned a lot on this project. I learned how to work better with their teams and ours. I learned more about strategy and design. I learned that sometimes the best process still won't yield the results you hoped for.
+I learned a lot on this project. I learned how to work better with their teams and ours. I learned more about strategy and design. I learned that sometimes the best process still won't yield all the results you hoped for.
 
