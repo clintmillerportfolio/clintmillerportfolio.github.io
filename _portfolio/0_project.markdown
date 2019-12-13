@@ -37,11 +37,9 @@ We outlined how our deliverables would build toward the final presentation:
 4. We define our **Areas of Improvement** by cross-referencing **Business Needs, Customer Needs** and **Best Practices**
 
 5. **Job Stories** distill key issues and scenarios from the **Areas of Improvement**
-
 <img class="img_scale" src="/img/jobstory.png"/>
 
 6. **Customer Journeys** imagine a real world example of a user fufilling the **Job Stories**
-
 <a href="http://www.mrclintmiller.com/img/journey.png"><img class="img_scale" src="/img/journey.png"/></a>
 
 7. **Wireframes** illustrate the screens from the **Customer Journeys**
