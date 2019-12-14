@@ -8,14 +8,16 @@ img: /img/nba_thumb.png
 <img class="img_scale" src="/img/nba_cover.png"/>
 
 # Customer Need
-*"I want to keep up with my favorite teams, but I’m busy."*
+"I want to keep up with my favorite teams."
 
 # Business Need
-*Stake a claim in the world of voice interfaces.*
+Stake a claim in the world of voice interfaces.
 
 # Solution
-*An Alexa Skill that checks scores, gives the schedule and plays live game audio.*
+An Alexa Skill that checks scores, gives the schedule and plays live game audio.
 
+<hr>
+<br>
 Turner Broadcasting, the official digital partner of the NBA, approached my team looking to create an Alexa Skill. Their primary goal was to stake a claim in the world of voice interfaces.
 
 During kickoff, I briefed the client on Alexa capabilities and made the recommendation that we start small. Best practices for voice dictate that interactions are brief, but valuable. Voice interfaces are in their infancy, and I felt keeping the scope small would set ourselves and users up for success. 
