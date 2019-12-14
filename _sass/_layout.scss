@@ -64,7 +64,7 @@ display: line;
         color: black;
         font-size:75px;
         @include media-query($on-palm) {
-line-height: 1.2em;
+line-height: 1.1em;
     }
     }
     h2{
