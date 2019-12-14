@@ -64,6 +64,9 @@ display: line;
     h1{
         color: black;
         font-size:75px;
+        @include media-query($on-palm) {
+line-height: 5em;
+    }
     }
     h2{
         Font-Family: 'Muli', Serif;
