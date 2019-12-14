@@ -8,13 +8,15 @@ img: /img/atteco_thumb.png
 <img class="img_scale" src="/img/atteco_cover.png"/>
 
 # Customer Need
-*"I want to manage my digital lifestyle."*
+"I want to manage my digital lifestyle."
 
 # Business Need
-*Rexamine AT&T’s app ecosystem and redesign the flagship consumer app: myAT&T.*
+Rexamine AT&T’s app ecosystem and redesign the flagship consumer app: myAT&T.
 
 # Solution
-*Workshops and a 238 page report of  job stories, customer journeys, wires, comps and more around AT&T’s app ecosystem.*
+Workshops and a 238 page report of  job stories, customer journeys, wires, comps and more around AT&T’s app ecosystem.
+
+<hr>
 
 AT&T came to us looking for strategy, design and tech recommendations for their 46 mobile apps.
 
