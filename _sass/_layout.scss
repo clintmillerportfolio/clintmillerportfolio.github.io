@@ -55,7 +55,6 @@ display: line;
     position: relative;
     font-size: 20px;
     display: block;
-    opacity: 1;
     width: 100%;
     text-align: center;
     padding-top: 25px;
@@ -65,7 +64,7 @@ display: line;
         color: black;
         font-size:75px;
         @include media-query($on-palm) {
-line-height: 3.4em;
+line-height: 1.2em;
     }
     }
     h2{
