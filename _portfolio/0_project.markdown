@@ -17,7 +17,7 @@ Rexamine AT&T’s app ecosystem and redesign the flagship consumer app: myAT&T.
 Workshops and a 238 page report of  job stories, customer journeys, wires, comps and more around AT&T’s app ecosystem.
 
 <hr>
-
+<br>
 AT&T came to us looking for strategy, design and tech recommendations for their 46 mobile apps.
 
 First, I researched the combined ecosystem, finding redundancies and looking for future improvements. A developer helped me write a script to pull all the app analytics into a spreadsheet for analysis. Some apps had not been updated in over a year. Some apps had very low ratings. We felt these apps could be eliminated or integrated into other apps.  I asked our strategist to gather app reviews. We cross referenced them with the quantitative data. Doing research separately limited confirmation bias at this early stage.
