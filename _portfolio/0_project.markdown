@@ -7,13 +7,13 @@ img: /img/atteco_thumb.png
 
 <img class="img_scale" src="/img/atteco_cover.png"/>
 
-# Customer Need
+## Customer Need
 "I want to manage my digital lifestyle."
 
-# Business Need
+## Business Need
 Rexamine AT&T’s app ecosystem and redesign the flagship consumer app: myAT&T.
 
-# Solution
+## Solution
 Workshops and a 238 page report of  job stories, customer journeys, wires, comps and more around AT&T’s app ecosystem.
 
 <hr>
