@@ -7,13 +7,13 @@ img: /img/nba_thumb.png
 
 <img class="img_scale" src="/img/nba_cover.png"/>
 
-# Customer Need
+#### Customer Need
 "I want to keep up with my favorite teams."
 
-# Business Need
+#### Business Need
 Stake a claim in the world of voice interfaces.
 
-# Solution
+#### Solution
 An Alexa Skill that checks scores, gives the schedule and plays live game audio.
 
 <hr>
