@@ -117,6 +117,10 @@ color: $theme-color;
 .page-content {
 padding: 100px 0; /* VERTICAL PADDING FOR TITLE ON EVERY PAGE */
 }
+.page-content-home {
+padding: 100px 0; /* VERTICAL PADDING FOR TITLE ON EVERY PAGE */
+background-image: url("/img/backwave.png");
+}
 .page-heading {
 font-size: 20px;
 }
