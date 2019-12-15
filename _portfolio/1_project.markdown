@@ -32,6 +32,8 @@ The coming weeks mirrored that process with more detail being added each iterati
 
 During development of our Skill, a different NBA product team had developed their own Skill with score and schedule information. Stakeholders at NBA decided they wanted only one Skill. It was agreed that since the League Pass Audio Skill was executed so well, that our team would take over the task of merging both Skills. We needed to make sure our scores and schedule feature was better than the native functionality. Alexa native focused on individual teams and games. I decided that our Skill would also list scores and schedules for the entire league.
 
+<img class="img_scale2" src="/img/nba_echo.jpg"/>
+
 Merging the Skills presented its own set of challenges. When a Skill is named "NBA League Pass Audio" it gives the user a clear mental model of what they can ask it. This new Skill would be named “NBA,” which would require more hand holding to guide the user.
 
 We brought in a 2nd designer. I staked her with doing flows for our new Intents. In the first iteration, I had been fleshing out a notation system for Voice interfaces. I taught it to the junior designer and had her put the flows in Invision as a way to contextually discuss the Intents. I worked closely with her to add and reduce complexity where needed. I edited dialog ensuring it was concise and easy to understand. I made suggestions on how we adhere to Amazon’s guidelines.
