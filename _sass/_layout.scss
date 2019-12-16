@@ -73,6 +73,9 @@ line-height: 1.1em;
     h2{
         Font-Family: 'Muli', Serif;
         font-size: 16px;
+        @include media-query($on-palm) {
+font-size: 14px;
+    }
         text-transform: uppercase;
         font-weight: bold;
     }
