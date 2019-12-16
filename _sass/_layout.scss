@@ -121,7 +121,7 @@ padding: 100px 0; /* VERTICAL PADDING FOR TITLE ON EVERY PAGE */
 padding: 100px 0; /* VERTICAL PADDING FOR TITLE ON EVERY PAGE */
 background-image: url("/img/bubbles3.png");
 background-repeat: no-repeat;
-background-position: center left;
+background-position: left top;
 background-size: 65%;
 @include media-query($on-palm) {
     background-size: 520px 418px;
