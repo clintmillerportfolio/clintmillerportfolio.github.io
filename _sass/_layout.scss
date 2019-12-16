@@ -56,7 +56,10 @@ display: line;
     font-size: 20px;
     display: block;
     width: 100%;
-    text-align: left;
+    text-align: center;
+    @include media-query($on-palm) {
+text-align: left;
+    }
     padding-top: 25px;
     line-height: 3em;
     z-index: 25;
@@ -70,6 +73,7 @@ line-height: 1.1em;
     h2{
         Font-Family: 'Muli', Serif;
         font-size: 20px;
+        text-transform: uppercase;
         @include media-query($on-palm) {
             font-size: 16px;
         }
@@ -122,7 +126,7 @@ padding: 100px 0; /* VERTICAL PADDING FOR TITLE ON EVERY PAGE */
 background-image: url("/img/bubbles3.png");
 background-repeat: no-repeat;
 background-position: left top;
-background-size: 65%;
+background-size: 70%;
 @include media-query($on-palm) {
     background-size: 520px 418px;
     }
