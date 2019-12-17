@@ -15,7 +15,7 @@ During his 14 years in design, he’s stayed on the cusp of change, moving from 
  
 He believes Voice is the way of the future, given its "heads-up" nature, allowing us to meet our digital needs and get back to the real world.
  
-In his free time, he enjoys disc golf and going on adventures with his 2 year old son. 
+In his free time, he enjoys disc golf and going on adventures through Midway Woods with his 2 year old son. 
 
 #### Recent Articles
 UXmatters
