@@ -4,7 +4,7 @@ title: about
 permalink: /about/
 ---
 
-<img class="col one right" src="/img/prof_pic.jpg">
+<img class="col one right" src="/img/clint.jpg">
 
 <br/>
 Clint Miller is a Associate Creative Director at Wunderman Thompson where he spearheads mobile & conversation design. Previously he worked as a UX Manager for Assurant, a Fortune 500 insurance company.
