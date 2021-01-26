@@ -7,7 +7,7 @@ permalink: /about/
 <img class="col one right" src="/img/prof_pic.jpg">
 
 <br/>
-Clint Miller is a Design Lead at Wunderman Thompson where he spearheads mobile & conversation design. Previously he worked as a UX Manager for Assurant, a Fortune 500 insurance company.
+Clint Miller is a Associate Creative Director at Wunderman Thompson where he spearheads mobile & conversation design. Previously he worked as a UX Manager for Assurant, a Fortune 500 insurance company.
  
 His focus is on strategy and prototyping for emerging tech. Combining these skills gives brands a glimpse into their future. His client work has included AT&T, ConEdison and CNN. in 2016, His work on the MLS Apple Watch app was highlighted on stage at an Apple Keynote.
  
