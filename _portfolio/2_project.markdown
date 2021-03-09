@@ -32,7 +32,7 @@ I created the initial UI based on their recent brand update.
 
 <img class="img_scale2" src="/img/thanks3.png"/>
 
-This was an ongoing project where I was tightly integrated with product management and development. We worked with the client on a feasible roadmap for our releases. I adhered to business requirements. I worked with our business analyst to write technical requirements based off my design. It was extremely important to be knowledgable of iOS and Android platforms. I needed to ensure our apps passed certification and were future proof by not using custom UI components. I paired closely with developers to ensure the designs scaled well across screens.
+This was a 2 year long engagement where I was tightly integrated with product management and development. We worked with the client on a feasible roadmap for our releases. I adhered to business requirements. I worked with our business analyst to write technical requirements based off my design. It was extremely important to be knowledgable of iOS and Android platforms. I needed to ensure our apps passed certification and were future proof by not using custom UI components. I paired closely with developers to ensure the designs scaled well across screens.
 
 As the number of offers grew, I decided we needed a variety of templates that fit any offer we were given including:
 
