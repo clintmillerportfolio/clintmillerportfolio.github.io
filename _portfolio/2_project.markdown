@@ -36,11 +36,12 @@ This was an ongoing project where I was tightly integrated with product manageme
 
 As the number of offers grew, I decided we needed a variety of templates that fit any offer we were given including:
 
-* Web Offers
-* QR code based offers
-* Text Code based offers
-* Limited time offers
-* Location based offers
+* Web link
+* QR code 
+* Promo code
+* Limited time 
+* Location based
+* Coupon code
 * Sweepstakes 
 
 The app had a 4.5 out of 5 ranking on the App Store and was used by millions of users. It has recently been absorbed into MyAT&T <a href="http://www.mrclintmiller.com/portfolio/0_project/">(another app I had a big part in the design of.)</a>
