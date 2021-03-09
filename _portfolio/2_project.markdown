@@ -20,7 +20,7 @@ An iOS & Android mobile app built on a content management system that contains w
 <br>
 AT&T were offering many perks to their customers. The problem was each perk was on it’s own individual website. 
 
-After a brief kickoff, I got right to work. We didn’t have much time so I started with Basecamp’s version of flows to illustrate our primary use cases. I worked with our development team by defining the content strategy for the custom CMS we built. 
+After a brief kickoff, I got right to work. We didn’t have much time so I started with <a href="https://signalvnoise.com/posts/1926-a-shorthand-for-designing-ui-flows" target="_blank">Basecamp’s version of flow</a> to illustrate our primary use cases. I worked with our development team by defining the content strategy for the custom CMS we built. 
 
 <img class="img_scale" src="/img/thanks4.png"/>
 
