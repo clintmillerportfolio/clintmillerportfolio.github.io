@@ -19,7 +19,7 @@ In my 15+ years in design, I’ve stayed on the cusp of change, working in Web, 
 
 In my free time I enjoy cycling and going on adventures with my 3 year old son.
 
-#### Selects Skills & Software
+#### Select Skills & Software
 Sketch • Framer • Figma • Omnigraffle • Invision • White-boarding • Agile • User Story Mapping • Miro • a11y • Keynote • Zeplin
 
 #### Recent Articles
