@@ -22,11 +22,11 @@ AT&T were offering many perks to their customers. The problem was each perk was 
 
 After a brief kickoff, I got right to work. We didn’t have much time so I started with Basecamp’s version of flows to illustrate our primary use cases. I worked with our development team by defining the content strategy for the custom CMS we built. 
 
-<img class="img_scale2" src="/img/thanks4.png"/>
+<img class="img_scale" src="/img/thanks4.png"/>
 
 I created the wires.
 
-<img class="img_scale2" src="/img/thanks5.png"/>
+<img class="img_scale" src="/img/thanks5.png"/>
 
 I created the initial UI based on their recent brand update.
 
